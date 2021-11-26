@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Mission Kubernetes!</h1>
+        <h1>mission kubernetes</h1>
     </body>
 </html>
